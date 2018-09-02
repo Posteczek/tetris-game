@@ -12,3 +12,4 @@
 -Możliwość resetowania gry;
 -Dodać opcje z nickiem gracza;
 -Ranking;
+-testowanie pulli
